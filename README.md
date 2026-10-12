@@ -12,23 +12,19 @@ Atualmente, meu objetivo é evoluir como desenvolvedor e conquistar minha primei
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
-
+ 
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
+ 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
+ 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+ 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -70,6 +66,7 @@ Consolidar meus conhecimentos em JavaScript, desenvolver aplicações cada vez m
 
 - GitHub: [@Luckkkas](https://github.com/Luckkkas)
 - LinkedIn: [Lucas Raphael](https://www.linkedin.com/in/lucas-raphael-23850643b/)
+- Email: [luckasfaker77@gmail.com](luckasfaker77@gmail.com)
 
 ---
 
