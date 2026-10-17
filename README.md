@@ -36,7 +36,7 @@ Aplicação de previsão do tempo que consome uma API com `fetch` e exibe os dad
 | ⏰ Relógio | [Repositório](https://github.com/Luckkkas/Relogio) |
 | 🧮 Calculadora Moderna | [Repositório](https://github.com/Luckkkas/calculadora-Moderna) |
 | 💰 Sistema de Valores | [Repositório](https://github.com/Luckkkas/sistema-de-valores) |
-| 🚦 Sistema de Multas | [Repositório](https://github.com/Luckkkas/sistema-de-multas) |
+| 🚦 Sistema de Multas | [Repositório](https://github.com/Luckkkas/Painel-de-Multas) |
 
 ---
 
